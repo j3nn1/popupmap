@@ -1,0 +1,33 @@
+
+.btn {
+    margin: 1rem;
+}
+/*
+body {
+    background: url("bicycle-1872682_1920.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+*/
+
+.container {
+    margin-block-start: 2rem;
+    margin-block-end: 2rem;
+    background-color: white;
+  }
+
+.card {
+    margin-block-start: 2rem;
+    margin-block-end: 2rem;
+    width:30rem
+}
+
+.form {
+    margin-block-start: 2rem;
+    margin-block-end: 2rem;
+    margin-inline-start: 2rem;
+    margin-inline-end: 2rem;
+}

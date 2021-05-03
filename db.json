@@ -1,0 +1,71 @@
+
+
+{
+   "tapahtumat":[
+      {
+         "id":1,
+         "otsikko":"Mun pihakirppis",
+         "alaotsikko":"rompetta autotallista vuosien varrelta",
+         "kuvaus":"myynnissä paljon vanhoja esineitä ja aarteita",
+         "kategoria":"1",
+         "pvm":"10.4.2021",
+         "osoite":"Koetilankatu 3",
+         "postinro":"01520",
+         "kaupunki":"Vantaa",
+         "lat":"60.273726",
+         "lng":"24.959772",
+         "otsikkokuva":""
+      },
+      {
+         "id":2,
+         "otsikko":"Lelukirppis",
+         "alaotsikko":"Paljon lastenleluja 0-10-vuotialle",
+         "kuvaus":"Myynnissä paljon Ryhmä Hauta ja pelejä",
+         "kategoria":"1",
+         "pvm":"10.4.2021",
+         "osoite":"Kaurapellonkatu 3",
+         "postinro":"01520",
+         "kaupunki":"Vantaa",
+         "lat":"60.27243736797741",
+         "lng":"24.960458644248565",
+         "otsikkokuva":""
+      }
+   ],
+
+   "kategoriat":[
+      {
+      "kategoria_id":1,
+      "kategoria_nimi":"kirppis"
+       },
+      {
+         "kategoria_id":2,
+         "kategoria_nimi":"ravintolapäivä"
+      }
+
+   ],
+
+   "kayttajat":[
+    {
+       "kayttaja_id":1,
+       "nimi":"Heikki Höntsä",
+       "osoite":"Lenkkitie 1",
+       "postinumero":"010101",
+       "puhelinnumero":"0404141414",
+       "sahkoposti":"heikki.hontsa@sahkoposti.fi",
+       "salasana":"salasana",
+       "status":"kayttaja"
+    },
+    {
+      "kayttaja_id":1,
+      "nimi":"Jaska Juoksija",
+      "osoite":"Kisatie 1",
+      "postinumero":"010101",
+      "puhelinnumero":"0404141414",
+      "sahkoposti":"jaska.juoksija@sahkoposti.fi",
+      "salasana":"salasana",
+      "status":"yllapitaja"
+   }
+
+   ]
+ }
+ 
